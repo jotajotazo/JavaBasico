@@ -1,0 +1,5 @@
+Hola!!
+
+Esta es una prueba de copia de archivos usando InputStream y PrintStream a través de una función.
+
+Todo Ok José Luis.
